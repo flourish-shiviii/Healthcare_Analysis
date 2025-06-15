@@ -19,6 +19,7 @@ Medical conditions.
 Insurance coverage.
 Admission types.
 
+Please download the mMdia(zip).zip file to access all screenshots and recordings.
 Tools and Techniques
 Excel Skills (Pivot tables, Slicers, Charts and graphs, Advanced formulas)
 
