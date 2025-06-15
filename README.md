@@ -1,30 +1,34 @@
-# Healthcare_Analysis
-This Excel project analyzes healthcare data to find trends in demographics, medical conditions, and insurance coverage. It includes key insights and a dashboard for easy understanding.
+# Healthcare Analysis  
 
-Overview: This project analyzes a healthcare dataset to provide insights into demographic trends, medical conditions, insurance coverage, and admission patterns. The goal is to equip healthcare providers and public health officials with actionable data to improve patient outcomes and optimize resource allocation.
+This Excel project analyzes healthcare data to find trends in demographics, medical conditions, and insurance coverage. It includes key insights and a dashboard for easy understanding.  
 
-Objective:
-Understand regional health trends.
-Support public health decision-making through data-driven insights.
-Improve patient outcomes by identifying key areas for intervention.
-Facilitate strategic planning for healthcare providers.
+## Overview  
+This project analyzes a healthcare dataset to provide insights into demographic trends, medical conditions, insurance coverage, and admission patterns. The goal is to equip healthcare providers and public health officials with actionable data to improve patient outcomes and optimize resource allocation.  
 
-Dataset:
-Source: Kaggle.
-Size: 55,000 records and 15 attributes
+## Objective  
+- Understand regional health trends.  
+- Support public health decision-making through data-driven insights.  
+- Improve patient outcomes by identifying key areas for intervention.  
+- Facilitate strategic planning for healthcare providers.  
 
-Key Attributes:
-Patient demographics (age, gender).
-Medical conditions.
-Insurance coverage.
-Admission types.
+## Dataset  
+**Source**: Kaggle  
+**Size**: 55,000 records and 15 attributes  
 
-Please download the mMdia(zip).zip file to access all screenshots and recordings.
-Tools and Techniques
-Excel Skills (Pivot tables, Slicers, Charts and graphs, Advanced formulas)
+**Key Attributes**:  
+- Patient demographics (age, gender).  
+- Medical conditions.  
+- Insurance coverage.  
+- Admission types.  
 
-Visuals and Dashboard:
-Gender distribution across age categories.
-Medical conditions by insurance providers.
-Admission types by demographics.
-Trends in medication and test results.
+## Tools and Techniques  
+- **Excel Skills**: Pivot tables, Slicers, Charts and graphs, Advanced formulas  
+
+## Visuals and Dashboard  
+- Gender distribution across age categories.  
+- Medical conditions by insurance providers.  
+- Admission types by demographics.  
+- Trends in medication and test results.  
+
+**Please download the Media(zip).zip file to access all screenshots and recordings.**  
+
